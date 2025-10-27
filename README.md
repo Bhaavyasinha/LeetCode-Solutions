@@ -1,6 +1,6 @@
 # My LeetCode Journey 🚀
 
-Hey there! Welcome to my coding journey where I'm solving LeetCode problems to level up my programming skills.
+Hei! Welcome to my coding journey where I'm solving LeetCode problems to level up my programming skills.
 
 ## Progress Tracker 📊
 
