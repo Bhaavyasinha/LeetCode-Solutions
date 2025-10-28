@@ -4,7 +4,7 @@ Hei! Welcome to my coding journey where I'm solving LeetCode problems to level u
 
 ## Progress Tracker 📊
 
-### Solved 7 Easy Problems:
+### Solved 8 Easy Problems:
 
 | Problem | Solution | Approach |
 |---------|----------|----------|
