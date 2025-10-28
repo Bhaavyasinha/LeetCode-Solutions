@@ -15,7 +15,8 @@ Hei! Welcome to my coding journey where I'm solving LeetCode problems to level u
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](Easy/Isomorphic-Strings.cpp) | Two hash maps for bidirectional mapping |
 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [C++](Easy/Number-of-Good-Pairs.cpp) | Combination formula n*(n-1)/2 |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](Easy/Majority-Element.cpp) | Frequency counting |
-| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](Easy/Word-Pattern.cpp) | O(n) | O(n) | Two hash maps for bidirectional mapping |
+| [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](Easy/Word-Pattern.cpp) | Two hash maps for word-character mapping |
+
 ## Current Focus 🎯
 - Mastering hash maps & sets
 - Building consistent coding habits
