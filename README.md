@@ -1,8 +1,8 @@
-# My LeetCode Journey 🚀
+# My LeetCode Journey 
 
 Hei! Welcome to my coding journey where I'm solving LeetCode problems to level up my programming skills.
 
-## Progress Tracker 📊
+## Progress Tracker 
 
 ### Solved 8 Easy Problems:
 
@@ -17,7 +17,7 @@ Hei! Welcome to my coding journey where I'm solving LeetCode problems to level u
 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](Easy/Majority-Element.cpp) | Frequency counting |
 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](Easy/Word-Pattern.cpp) | Two hash maps for word-character mapping |
 
-## Current Focus 🎯
+## Current Focus 
 - Mastering hash maps & sets
 - Building consistent coding habits
 - Preparing for technical interviews
