@@ -26,6 +26,7 @@ Hei! Welcome to my coding journey where I'm solving LeetCode problems to level u
 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](Easy/Power-of-Four.cpp) | Bit manipulation + modulo check |
 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](Easy/Power-of-Two.cpp) | Bit manipulation (n & (n-1) == 0) |
 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](Easy/Ransom-Note.cpp) | Character frequency hash map |
+| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](Easy/Thrird-Maximum-Number.cpp) | Arrays|
 
 ### GFG Problems Solved:
 
