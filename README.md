@@ -27,6 +27,7 @@ Hei! Welcome to my coding journey where I'm solving LeetCode problems to level u
 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](Easy/Power-of-Two.cpp) | Bit manipulation (n & (n-1) == 0) |
 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](Easy/Ransom-Note.cpp) | Character frequency hash map |
 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](Easy/Thrird-Maximum-Number.cpp) | Arrays|
+| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](Easy/Reverse-String.cpp) | Arrays|
 
 ### GFG Problems Solved:
 
@@ -43,7 +44,7 @@ Hei! Welcome to my coding journey where I'm solving LeetCode problems to level u
 | Three Great Candidates | [C++](GFG/Three-Great-Candidates.cpp) | Sorting or linear scan |
 | Wave Array | [C++](GFG/Wave-Array.cpp) | Adjacent swapping |
 
-**Total Solved: 18+ LeetCode + 10+ GFG = 28+ problems**  
+**Total Solved: 20+ LeetCode + 10+ GFG = 30+ problems**  
 **Languages: C++, SQL**
 
 ## Current Focus 
